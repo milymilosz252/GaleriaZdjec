@@ -1,3 +1,2 @@
 # GaleriaZdjec
-# GaleriaZdjec
-# GaleriaZdjec
+
